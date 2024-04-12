@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Airline Fare Prediction",
+    "imageSrc": "projects/airline.jpg",
+    "description": "Mini ML Project to develop a machine learning model for predicting Cheapest airfare.",
+    "skills": ["Python", "Jupyter", "Django"],
+    "source": "https://github.com/AbhiGoku/Airfare-Prediction-Model"
+  },
+  {
+    "title": "Rgb Color Guessing Game",
+    "imageSrc": "projects/rgb.png",
+    "description": "Web based interactive game where user is asked to guess the RGB value that is being displayed.",
+    "skills": ["Wamp", "HTML", "CSS", "Jquery"],
+    "source": "https://github.com/AbhiGoku/RGB-color-guessing-game"
+  },
+  {
+    "title": "Employee Payroll Management System",
+    "imageSrc": "projects/employee.png",
+    "description": "Application that manage details of Employees, Payments, Salary.",
+    "skills": ["Java Netbeans", "SQLite"],
+    "source": "https://github.com/AbhiGoku/Employee-Payroll-System"
+  }
+]

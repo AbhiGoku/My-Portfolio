@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer(Back-End)",
+    "organisation": "Lowe's India",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Majorly, concentrated on deploying production ready code", "Participated in business meetings for UAT"],
+    "imageSrc": "history/Lowes.png"
+  },
+  {
+    "role": "Associate Software Developer(Back-End)",
+    "organisation": "Lowe's India",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on end-to-end Label Management Platform using Java Spring Boot", "Learnt and implemented Zebra Programming language(ZPL)"],
+    "imageSrc": "history/Lowes.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Lowe's India",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Learnt NodeJs and implemented a  Notification System",
+      "Added the ability to mark as read and remove notifications"
+    ],
+    "imageSrc": "history/Lowes.png"
+  }
+]
