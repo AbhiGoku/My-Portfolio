@@ -30,6 +30,8 @@
   width:30%;
   border-radius: 20px;
   margin-right: 20px;
+
+  
 }
 
 .aboutItems{
@@ -64,31 +66,7 @@
 .aboutItem p{
   font-size: 25px;
 }
-.topBlur{
-  position: absolute;
-  width: 50vw;
-  height: 50vw;
-  min-width: 350px;
-  min-height: 350px;
-  top:-130px;
-  left:10vw;
-  border-radius: 764px;
-  background: rgba(18, 12, 189, 0.7);
-  filter: blur(100px);
-}
 
-.bottomBlur{
-  position: absolute;
-  width: 70vw;
-  height: 50vw;
-  min-width: 150px;
-  min-height: 150px;
-  top:250px;
-  left:10vw;
-  border-radius: 764px;
-  background: rgba(195, 0, 255, 0.1);
-  filter: blur(100px);
-}
 
 @media screen and (max-width:830px) {
   .container{
