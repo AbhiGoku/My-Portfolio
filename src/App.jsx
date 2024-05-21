@@ -9,6 +9,7 @@ import { Contact } from "./Components/Contact/Contact";
 function App() {
   return (
     <>
+    <div className={styles.scrollWatcher}></div>
       <div className={styles.App}>
         <NavBar />
         <Hero />

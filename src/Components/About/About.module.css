@@ -30,8 +30,20 @@
   width:30%;
   border-radius: 20px;
   margin-right: 20px;
-
+  animation: fade-in linear;
+  animation-timeline: view();
   
+}
+
+@keyframes fade-in {
+  from{
+    scale: 0.8;
+    opacity: 0;
+  }
+  to{
+    scale: 1;
+    opacity: 1;
+  }
 }
 
 .aboutItems{

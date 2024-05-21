@@ -10,17 +10,16 @@ export const Hero = () => {
           Hi, I am <br /> Abhishek Laderpet Sudarshan
         </h1>
         <p className={styles.description}>
-          I am a full stack Developer with 3 years of experience in Java Spring
-          boot, react.
+        "I have three years of experience as a full stack developer with expertise in Java, Spring Boot, and React. <br /> Throughout my career, I have been involved in all phases of the software development life cycle, from writing code to deployment, gaining comprehensive knowledge and hands-on experience in managing software projects.
           <br />
-          <br /> I am currently pursuing my Master's Degree from{" "}
+          <br />Also, I recently graduated with a Master's Degree in Computer Science from{" "}
           <a
             href="https://www.google.com/search?q=IUPUI"
             className={styles.iupui}
           >
             IUPUI
           </a>{" "}
-          in Computer Science. I will be graduating in the month of May 2024.
+          in May 2024
         </p>
         <a
           href="mailto:abhishek.l.s9198@gmail.com"
