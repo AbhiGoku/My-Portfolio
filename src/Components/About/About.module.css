@@ -29,10 +29,7 @@
 .aboutImage{
   width:30%;
   border-radius: 20px;
-  margin-right: 20px;
-  animation: fade-in linear;
-  animation-timeline: view();
-  
+  margin-right: 20px;  
 }
 
 @keyframes fade-in {
