@@ -10,9 +10,15 @@ export const Hero = () => {
           Hi, I am <br /> Abhishek Laderpet Sudarshan
         </h1>
         <p className={styles.description}>
-        "I have three years of experience as a full stack developer with expertise in Java, Spring Boot, and React. <br /> Throughout my career, I have been involved in all phases of the software development life cycle, from writing code to deployment, gaining comprehensive knowledge and hands-on experience in managing software projects.
+          "I have three years of experience as a full stack developer with
+          expertise in Java, Spring Boot, and React. <br /> Throughout my
+          career, I have been involved in all phases of the software development
+          life cycle, from writing code to deployment, gaining comprehensive
+          knowledge and hands-on experience in managing software projects.
           <br />
-          <br />Also, I recently graduated with a Master's Degree in Computer Science from{" "}
+          <br />
+          Also, I recently graduated with a Master's Degree in Computer Science
+          from{" "}
           <a
             href="https://www.google.com/search?q=IUPUI"
             className={styles.iupui}
@@ -22,10 +28,11 @@ export const Hero = () => {
           in May 2024
         </p>
         <a
-          href="mailto:abhishek.l.s9198@gmail.com"
+          href="https://drive.google.com/file/d/1KeD6U74pdx7_F06fBC3gYtrEfHVIHNdu/view"
           className={styles.contactBtn}
+          target="_blank"
         >
-          Contact Me
+          Download Resume
         </a>
       </div>
       <img
