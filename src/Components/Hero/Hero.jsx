@@ -28,7 +28,7 @@ export const Hero = () => {
           in May 2024
         </p>
         <a
-          href="https://drive.google.com/file/d/1KeD6U74pdx7_F06fBC3gYtrEfHVIHNdu/view"
+          href="https://drive.google.com/drive/u/2/folders/10XdMeypxMztzkdhQZioKIPR6g02ijx5c"
           className={styles.contactBtn}
           target="_blank"
         >
