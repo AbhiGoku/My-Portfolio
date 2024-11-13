@@ -1,25 +1,33 @@
 [
   {
+    "role": "Full Stack Engineer",
+    "organisation": "BrightMinds Enrichments",
+    "startDate": "Jun, 2024",
+    "endDate": "Present",
+    "experiences": ["Implemented efficient pagination in ReactJS, optimizing data navigation and reducing load times", "Enhanced log cards with Tailwind CSS, improving visual hierarchy, readability, and consistency."],
+    "imageSrc": "history/brightmind.png"
+  },
+  {
     "role": "Software Engineer(Back-End)",
     "organisation": "Lowe's India",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Majorly, concentrated on deploying production ready code", "Participated in business meetings for UAT"],
+    "startDate": "Jan, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Built a scalable, containerized Price Label Management Platform, cutting label print time from 7 to under 1 second.", "Developed 10+ reusable components for consistent and adaptable UI.","Achieved 70% test coverage with unit and integration tests, enhancing reliability."],
     "imageSrc": "history/Lowes.png"
   },
   {
     "role": "Associate Software Developer(Back-End)",
     "organisation": "Lowe's India",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on end-to-end Label Management Platform using Java Spring Boot", "Learnt and implemented Zebra Programming language(ZPL)"],
+    "startDate": "Jul, 2019",
+    "endDate": "Dec, 2021",
+    "experiences": ["Developed RESTful endpoints and UI components for Store Operating Hours", "Collaborated with cross-functional teams using Agile to deliver 4+ features.","Received SPOT Award for creating workflows that reduced processing times and increased productivity."],
     "imageSrc": "history/Lowes.png"
   },
   {
     "role": "SWE Intern",
     "organisation": "Lowe's India",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "startDate": "Feb, 2019",
+    "endDate": "Jun, 2019",
     "experiences": [
       "Learnt NodeJs and implemented a  Notification System",
       "Added the ability to mark as read and remove notifications"

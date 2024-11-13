@@ -4,6 +4,26 @@
     "imageSrc": "skills/spring-boot.jpg"
   },
   {
+    "title": "Java",
+    "imageSrc": "skills/Java.jpg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "BitBucket",
+    "imageSrc": "skills/bitbucket.jpeg"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -12,8 +32,8 @@
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
   },
   {
     "title": "Oracle SQL",
@@ -30,10 +50,6 @@
   {
     "title": "Adobe XD",
     "imageSrc": "skills/adobeXD.png"
-  },
-  {
-    "title": "Docker",
-    "imageSrc": "skills/docker.png"
   },
   {
     "title": "Jira",

@@ -23,7 +23,7 @@ export const Hero = () => {
             href="https://www.google.com/search?q=IUPUI"
             className={styles.iupui}
           >
-            IUPUI
+            Purdue University
           </a>{" "}
           in May 2024
         </p>
