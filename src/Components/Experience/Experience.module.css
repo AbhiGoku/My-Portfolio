@@ -7,7 +7,7 @@
   padding: 69px;
   margin-left: 10%;
   margin-right: 10%;
-  background-color: #8b006a;
+  background-color: #403a40;
   border-radius: 10px;
 }
 
@@ -75,7 +75,7 @@
   align-items: center;
   gap:17px;
   background: #2258bb;
-  background:linear-gradient(90deg,#b76ce2 0%,rgba(13, 213, 83, 0) 110%) ;
+  background:linear-gradient(90deg,#8b8191 0%,rgba(13, 213, 83, 0) 110%) ;
   border-radius: 10px;
   padding: 24px;
 }

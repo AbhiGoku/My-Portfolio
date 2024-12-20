@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Typewriter } from "react-simple-typewriter";
 
 import styles from "./NavBar.module.css";
@@ -7,6 +7,13 @@ import { getImageUrl } from "../../utils";
 
 function NavBar() {
   const [menuOpen, setMenuOpen] = useState(false);
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
 
   return (
     <>
@@ -54,6 +61,12 @@ function NavBar() {
           </ul>
         </div>
       </nav>
+
+      {/* Fun Home Button */}
+      <button className={styles.homeButton} onClick={scrollToTop}>
+        🏠
+        <span className={styles.tooltip}>Back to Top!</span>
+      </button>
     </>
   );
 }
